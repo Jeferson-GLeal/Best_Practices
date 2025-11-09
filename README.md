@@ -61,4 +61,33 @@ O **Clean Code**, popularizado por *Robert C. Martin (Uncle Bob)*, é um conjunt
 | **Evite duplicação (DRY)** | Código duplicado é difícil de manter. |
 | **Comentários claros** | Use comentários apenas quando o código não for autoexplicativo. |
 | **Tratamento de erros** | Prefira exceções a códigos de erro. |
-| **Formatação consistente** | Código limpo é também visualmente organizado. |
+| **Formatação consistente** | Código limpo é também visualmente organizado. |  
+
+📍 **Diferença:**  
+Legibilidade, clareza e propósito explícito.
+
+---
+
+## 🧱 **Conexão entre os Três Pilares**
+
+| Conceito | Objetivo Principal | Resultado Esperado |
+|-----------|-------------------|---------------------|
+| **S.O.L.I.D** | Estruturar código orientado a objetos | Menos acoplamento, mais testabilidade |
+| **Design Patterns** | Reutilizar soluções de design comprovadas | Código extensível e sustentável |
+| **Clean Code** | Garantir legibilidade e simplicidade | Código compreensível e fácil de evoluir |
+
+---
+
+## 💬 **Conclusão**
+
+> Um bom desenvolvedor não mede seu valor pela quantidade de código escrito,  
+> mas pela **qualidade, clareza e manutenibilidade** do que entrega.
+
+---
+
+### 🧠 **Aplique Sempre:**
+
+- 🧩 **S.O.L.I.D** → para manter boas estruturas  
+- 🎨 **Design Patterns** → para resolver problemas de design  
+- ✨ **Clean Code** → para tornar o código legível e profissional
+
